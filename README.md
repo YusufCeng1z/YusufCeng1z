@@ -16,3 +16,6 @@ You're lookin’ around, and it’s all scary and different,
 but y’know … meeting them head-on, 
 charging into ‘em like a bull — that’s how we grow as people."
 ```
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,xd,ps,wordpress,vscode)](https://skillicons.dev)
