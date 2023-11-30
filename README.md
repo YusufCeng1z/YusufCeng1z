@@ -18,4 +18,4 @@ charging into ‘em like a bull — that’s how we grow as people."
 ```
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,xd,ps,wordpress,vscode,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,xd,ps,wordpress,vscode,tailwind,nodejs)](https://skillicons.dev)
