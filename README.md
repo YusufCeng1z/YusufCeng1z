@@ -7,11 +7,7 @@ my skills in HTML, CSS, JavaScript, Node.js, React.js, Redux, Svelte, Figma, Pho
 Bootstrap, and Tailwind CSS.
 ```
 
- <img align="right"  width="35%" src="https://user-images.githubusercontent.com/112738975/188952398-5b3b140b-b879-4e0d-8303-d321c2f1d051.gif">
 
 
 
-
-
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,xd,ps,wordpress,vscode,tailwind)
-![My Skills](https://skillicons.dev/icons?i=nodejs,svelte,react,redux)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,xd,ps,wordpress,vscode,tailwind,nodejs,svelte,react,redux)
