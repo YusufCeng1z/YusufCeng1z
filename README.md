@@ -1,11 +1,6 @@
-
-```css
-Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die. Come watch TV?
-```
+ <img   width="100%" src="header.png">
 
 ```
-Hello, I'm Yusuf web developer.
--------------------------------
 I'm a front-end developer passionate about creating user-friendly interfaces and
 enhancing digital experiences. With a focus on client satisfaction, I've been honing
 my skills in HTML, CSS, JavaScript, Node.js, React.js, Redux, Svelte, Figma, Photoshop,
