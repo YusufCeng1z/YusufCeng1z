@@ -9,6 +9,7 @@
 
 * [svelte-gsap-template](https://github.com/YusufCeng1z/svelte-gsap-template): a production-ready agency landing page template built with Svelte 5, GSAP 3 and Tailwind CSS v4.
 * [sveltekit-tailwind-landing-page-template](https://github.com/YusufCeng1z/sveltekit-tailwind-landing-page-template): a clean landing page template for SvelteKit.
+* [sveltekit-shadcn-blog-starter](https://github.com/YusufCeng1z/sveltekit-shadcn-blog-starter): a blog starter with shadcn-svelte, MDsveX, Tailwind and TypeScript, with sitemap/RSS and SEO built in.
 * [svelte-waitlist-template](https://github.com/YusufCeng1z/svelte-waitlist-template) · [nextjs-waitlist-template](https://github.com/YusufCeng1z/nextjs-waitlist-template): waitlist page templates.
 
 ### Open source tools
