@@ -1,4 +1,5 @@
-<img width="4000" height="1200" alt="github-banner" src="https://github.com/user-attachments/assets/a9082219-a041-4e2a-98ca-a755bee54ad7" />
+<img width="4000" height="1200" alt="yusufceng1z_github_banner" src="https://github.com/user-attachments/assets/ec444cdf-1d20-493f-974e-3d7f9e21c6a6" />
+
 
 ### Redesigns
 
